@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name xl4015)(type Legacy)(uri ${KIPRJMOD}/XL4015_step_down_converter/xl4015.lib)(options "")(descr ""))
+)
